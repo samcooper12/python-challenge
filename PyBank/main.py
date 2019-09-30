@@ -12,7 +12,7 @@ import time
 #import threading
 from threading import Timer
 
-csvpath = os.path.join('budget_data.csv')
+csvpath = os.path.join('Resources/budget_data.csv')
 m=0
 total=0
 net_total=0
